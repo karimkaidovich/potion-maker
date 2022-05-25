@@ -1,0 +1,46 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Polyjuice",
+      "ingredients": [
+        "Lacewing flies",
+        "Bicorn horn",
+        "Knotgrass",
+        "Fluxweed",
+        "Boomslang skin",
+        "a piece of hair from the person you want to become"
+      ],
+      "description": "Want to make yourself, er, not yourself? Well you need Polyjuice!",
+      "coocingTime": "1 month"
+    },
+    {
+      "id": "2",
+      "title": "Felix Felicis",
+      "ingredients": [
+        "Ashwinder egg",
+        "Squill bulb",
+        "Murtlap tentacle",
+        "tincture of thyme",
+        "Occamy eggshell",
+        "Some powered rue"
+      ],
+      "description": "If it's a dose of luck you're after, you've come to the right place.",
+      "coocingTime": "5 minutes"
+    },
+    {
+      "id": "3",
+      "title": "Ageing potion",
+      "ingredients": [
+        "Red wine",
+        "Prune juice",
+        "Hairy fungus",
+        "Tortoise shell",
+        "Caterpillar",
+        "Bat tongue"
+      ],
+      "description": "There's loads of fun to be had if you can pretend you're a real life grown-up and this lovely liquid will help in that department",
+      "coocingTime": "2 days"
+    }
+  ]
+}
