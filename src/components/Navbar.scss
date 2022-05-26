@@ -1,0 +1,30 @@
+.navbar {
+  nav {
+    display: flex;
+    align-items: center;
+    max-width: 1200px;
+    background-color: hotpink;
+    padding: 5px 10px;
+    margin: 0 auto;
+  }
+  .brand {
+    margin-right: auto;
+  }
+
+  a {
+    color: #fff;
+    text-decoration: none;
+    &:last-child {
+      border-radius: 5px;
+      padding: 10px;
+      border: 1px solid #fff;
+      &:hover {
+        color: black;
+        background-color: #fff;
+      }
+      &:active {
+        background-color: rgba(255, 255, 255, 0.765);
+      }
+    }
+  }
+}
